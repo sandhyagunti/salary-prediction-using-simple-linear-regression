@@ -1,0 +1,7 @@
+# pip install -r requirments.txt
+#streamlit run "projectname.py"
+streamlit
+scikit-learn
+numpy
+pandas
+
