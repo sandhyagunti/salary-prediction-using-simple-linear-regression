@@ -1,12 +1,6 @@
 
 # 💼 Salary Prediction App using Simple Linear Regression (SLR)
 
-📅 **Date:** July 9, 2025  
-📁 **Project:** Day40_Deploying_SLR_with_Streamlit  
-🌐 **Deployment:** Streamlit Web App
-
----
-
 ## 🎯 Objective
 
 This project demonstrates an end-to-end machine learning pipeline to **predict salary based on years of experience** using **Simple Linear Regression**. It includes:
@@ -156,13 +150,6 @@ if st.button("Predict Salary"):
 
 ---
 
-## 📦 Next Steps
 
-* Add more features like education, location, etc.
-* Try Polynomial or Random Forest Regression
-* Deploy app on Streamlit Cloud or Hugging Face Spaces
-
----
-
-> 👨‍💻 Built by [Akshay Bhujbal](https://www.linkedin.com/in/akshay-1995-bhujbal) with ❤️ for real-world AI deployment!
+> 👨‍💻 Built by [Gunti sandhya] with ❤️ for real-world AI deployment!
 ---
